@@ -1,10 +1,10 @@
 
 
-fishGame/cocos2d/
-fishGame/proj.android/
-fishGame/proj.android-studio/
-fishGame/proj.ios_mac/
-fishGame/proj.linux/
-fishGame/proj.win8.1-universal/
-fishGame/proj.win10/
-fishGame/proj.win32/
+**/cocos2d/
+**/proj.android/
+**/proj.android-studio/
+**/proj.ios_mac/
+**/proj.linux/
+**/proj.win8.1-universal/
+**/proj.win10/
+**/proj.win32/
